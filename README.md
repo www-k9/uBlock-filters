@@ -1,6 +1,6 @@
 # uBlock-filters
 
-To Remove Unuseful Sites From Search Engins From Repositories :
+To Remove Unuseful Sites From Search Engins , Depends on Repositories :
 
 https://github.com/www-k9/hosts
 https://github.com/StevenBlack/hosts
