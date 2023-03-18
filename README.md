@@ -20,5 +20,7 @@ https://raw.githubusercontent.com/www-k9/uBlock-filters/master/lists/google.txt
 https://raw.githubusercontent.com/www-k9/uBlock-filters/master/StevenBlack/porn/google.txt
 ```
 
+---
 Source :
+
 https://www.reddit.com/r/uBlockOrigin/comments/dzjogk/can_you_somehow_remove_sites_from_google_search/
