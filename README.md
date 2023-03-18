@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/www-k9/uBlock-filters/master/lists/google.txt
 ```
 
 ```
-https://raw.githubusercontent.com/www-k9/uBlock-filters/master/StevenBlack/porn/google.txt
+https://raw.githubusercontent.com/www-k9/uBlock-filters/master/StevenBlack/porn/google_all.txt
 ```
 
 ---
