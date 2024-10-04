@@ -13,7 +13,7 @@ https://github.com/www-k9/hosts
 https://github.com/StevenBlack/hosts
 
 ```
-https://raw.githubusercontent.com/www-k9/uBlock-filters/master/lists/google.txt
+https://raw.githubusercontent.com/www-k9/uBlock-filters/master/www-k9/google_all.txt
 ```
 
 ```
